@@ -1,0 +1,1 @@
+Een eenvoudige Todo applicatie gebouwd met Laravel voor Week 1 van de cursus. Met Werkende CRUD.
