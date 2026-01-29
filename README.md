@@ -17,6 +17,10 @@ Dit is een volledig functionele Todo applicatie met alle vereiste functionalitei
 ### 🚀 Live Demo
 **Server draait op**: http://localhost:8000
 
+### 📸 Screenshot
+![Todo App Demo](screenshots/todo-app-demo.png)
+*Werkende Todo App met alle CRUD functionaliteiten*
+
 ### 📁 Project Structuur
 ```
 todoapp-mini/
