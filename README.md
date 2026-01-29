@@ -17,9 +17,18 @@ Dit is een volledig functionele Todo applicatie met alle vereiste functionalitei
 ### 🚀 Live Demo
 **Server draait op**: http://localhost:8000
 
-### 📸 Screenshot
-![Todo App Demo](screenshots/todo-app-demo.png)
-*Werkende Todo App met alle CRUD functionaliteiten*
+### 📸 Screenshots
+
+![Todo App Demo](screenshots/image.png)
+*Hoofdpagina met taken overzicht, status badges en action buttons*
+
+De screenshot toont:
+- **Tasks Overview**: Grid layout met alle taken
+- **Status Indicators**: Kleurgecodeerde badges (Done/Pending)  
+- **Action Buttons**: View, Edit, Toggle, Delete functionaliteit
+- **Statistics**: Totaal aantal taken en voltooide taken
+- **Modern UI**: Bootstrap 5 responsive design
+- **Toggle Functionality**: "Mark as done" button (bonus feature)
 
 ### 📁 Project Structuur
 ```
